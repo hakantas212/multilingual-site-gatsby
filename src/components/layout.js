@@ -8,6 +8,7 @@
 import React from "react"
 import PropTypes from "prop-types"
 import { useStaticQuery, graphql } from "gatsby"
+import { injectIntl, FormattedMessage } from "gatsby-plugin-intl"
 
 import Header from "./header"
 import "./layout.css"
@@ -48,4 +49,4 @@ Layout.propTypes = {
   children: PropTypes.node.isRequired,
 }
 
-export default Layout
+export default injectIntl(Layout)

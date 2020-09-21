@@ -1,0 +1,17 @@
+{
+  "title": "Gatsby French",
+  "description": "Project description",
+  "author": "@louisbertin",
+  "hello": "Hej Folk",
+  "welcome": "Välkommen",
+  "title_page2": "Page deux",
+  "hello_page2": "Salut depuis la seconde page",
+  "go_page2": "Aller à la page 2",
+  "welcome_page2": "Bienvenue sur la page 2",
+  "go_back": "Till sidan TWO",
+  "footer_build": "Construit avec",
+  "notfound": {
+    "header": "NOT FOUND",
+    "description": "Vous voulez accéder à une route qui n'existe pas..."
+  }
+}
